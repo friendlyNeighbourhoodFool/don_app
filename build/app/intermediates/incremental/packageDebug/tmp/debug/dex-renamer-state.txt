@@ -1,0 +1,4 @@
+#Sun Feb 28 16:47:26 IST 2021
+base.0=C\:\\Users\\Ankit Mishra\\Desktop\\proj\\don_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
